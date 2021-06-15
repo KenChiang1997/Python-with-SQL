@@ -10,7 +10,11 @@ Personal Note For Python Connection with SQL
 
  (1-2) connect with sqlite db  , use sqlite3 to execute query language -- (select ,insert , create schema )
  
- 
+ <img width="747" alt="截圖 2021-06-15 下午12 50 50" src="https://user-images.githubusercontent.com/80143995/121994719-5fded080-cdd8-11eb-977a-1eeb08a71236.png">
+
+ <img width="973" alt="截圖 2021-06-15 下午12 50 38" src="https://user-images.githubusercontent.com/80143995/121994714-5e150d00-cdd8-11eb-9d5d-cb81e2f29e8c.png">
+
+
 (2.)sql_2.ipynb , sql_3.ipynb
 
   (2-1)create DB engine
@@ -18,6 +22,8 @@ Personal Note For Python Connection with SQL
   (2-3)to_sql
   (2-4)pull and store financial dataset in a sqlite db
   (2-5)Potential topics
+  
+  <img width="1211" alt="截圖 2021-06-15 下午12 52 02" src="https://user-images.githubusercontent.com/80143995/121994804-81d85300-cdd8-11eb-86ea-cc3f339f1d92.png">
 
 
 (3.)sql_4.ipynb
@@ -28,3 +34,6 @@ Personal Note For Python Connection with SQL
 (4.)sql_5.ipynb
    
    (4-1) update and create db in mysql ( example of nifty 50 )
+   
+   <img width="1376" alt="截圖 2021-06-15 下午12 52 58" src="https://user-images.githubusercontent.com/80143995/121994872-a2a0a880-cdd8-11eb-87ae-1d12c4cf9013.png">
+
