@@ -26,4 +26,4 @@ ON `employee`.`emp_id` = `branch`.`manager_id`; # Retruns all left table data
 
 SELECT `employee`.`emp_id`,`employee`.`name`,`branch`.`branch_name` # you cna select both columns name here.
 FROM `employee` RIGHT JOIN `branch`
-ON `employee`.`emp_id` = `branch`.`manager_id`; # Retruns all left table data
+ON `employee`.`emp_id` = `branch`.`manager_id`; # Retruns all right table data
