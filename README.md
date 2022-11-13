@@ -1,4 +1,4 @@
-Personal Note For Python Connection with MySQL
+***Personal Note For Python Connection with MySQL***
 
 Basic SQL with MySQL - Extreme Basic SQL Language
 
