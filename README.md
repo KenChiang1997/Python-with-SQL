@@ -9,7 +9,7 @@
   - SUB QUERY
 
 - Function
-  - Construct Function
+  - Create Function
   - Aggregate Analytics Function
   - while loop
  
