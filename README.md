@@ -1,6 +1,6 @@
 ***Personal Note For Python Connection with MySQL***
 
-Basic SQL with MySQL - Extreme Basic SQL Language
+1.) Basic SQL with MySQL - Extreme Basic SQL Language
 
 - CREATE TABLE
   - DATA STRUCTURE
@@ -8,4 +8,18 @@ Basic SQL with MySQL - Extreme Basic SQL Language
   - ADD/DELET DATA
   - SUB QUERY
 
-- Python Connect to MySQLWorkbench
+- Function
+  - Construct Function
+  - Aggregate Analytics Function
+  - while loop
+ 
+ - JOIN TABLE
+  - UNION
+  - JOIN
+
+2.) Python Connect to MySQLWorkbench
+
+- Python Package: MySQL.Connector
+- MySQL and Python Comparison (JOIN and MERGE)
+- MySQL and Python Comparison (Aggregate Function and Groupby)
+- MySQL and Python Comparison (Create Function and Apply Lambda)
