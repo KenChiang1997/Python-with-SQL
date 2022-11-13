@@ -1,5 +1,11 @@
-# Personal Note For Python Connection with MySQL
+Personal Note For Python Connection with MySQL
 
-1.) Extreme Basic SQL Language
+Basic SQL with MySQL - Extreme Basic SQL Language
 
-2.) Python Connect to MySQLWorkbench
+- CREATE TABLE
+  - DATA STRUCTURE
+  - CREATE/DROP DATABASE & TABLE
+  - ADD/DELET DATA
+  - SUB QUERY
+
+- Python Connect to MySQLWorkbench
