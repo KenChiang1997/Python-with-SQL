@@ -14,8 +14,8 @@
   - while loop
  
  - JOIN TABLE
-  - UNION
-  - JOIN
+    - UNION
+    - JOIN
 
 # ***Python Connect to MySQLWorkbench***
 
