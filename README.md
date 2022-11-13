@@ -11,7 +11,7 @@
 - Function
   - Create Function
   - Aggregate Analytics Function
-  - while loop
+  - While Loop
  
  - JOIN TABLE
     - UNION
