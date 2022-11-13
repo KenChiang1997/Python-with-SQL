@@ -1,6 +1,6 @@
 ***Personal Note For Python Connection with MySQL***
 
-1.) Basic SQL with MySQL - Extreme Basic SQL Language
+1.) Basic SQL with MySQL - Introduction to Basic SQL Language
 
 - CREATE TABLE
   - DATA STRUCTURE
@@ -19,7 +19,7 @@
 
 2.) Python Connect to MySQLWorkbench
 
-- Python Package: MySQL.Connector
+- Python Package Introduction: MySQL.Connector
 - MySQL and Python Comparison (JOIN and MERGE)
 - MySQL and Python Comparison (Aggregate Function and Groupby)
 - MySQL and Python Comparison (Create Function and Apply Lambda)
