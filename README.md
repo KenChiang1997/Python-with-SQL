@@ -1,6 +1,6 @@
 ***Personal Note For Python Connection with MySQL***
 
-# ***Basic SQL with MySQL - Introduction to Basic SQL Language***
+# ***Introduction to Basic SQL Language***
 
 - CREATE TABLE
   - DATA STRUCTURE
