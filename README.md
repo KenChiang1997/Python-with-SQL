@@ -10,7 +10,7 @@
 
 - Function
   - Create Function
-  - Aggregate Analytics Function
+  - Aggregate Analytics Function (GROUP BY Function)
   - While Loop
  
  - JOIN TABLE
