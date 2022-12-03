@@ -27,6 +27,6 @@
 
 # ***Python Connect to SQL Server***
 
-- Usefull Link to Download SQL Server on Apple Chip MacBook: https://medium.com/geekculture/how-to-install-sql-server-in-mac-m1-41121e110214
+- Useful Link to Download SQL Server on Apple Chip MacBook: https://medium.com/geekculture/how-to-install-sql-server-in-mac-m1-41121e110214
 - Still Updating.....
 
