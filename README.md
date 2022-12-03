@@ -1,4 +1,4 @@
-***Personal Note For Python Connection with MySQL***
+***Personal Note For Python Connection with SQL Server/ MySQL***
 
 # ***Introduction to Basic SQL Language***
 
@@ -23,3 +23,9 @@
 - MySQL and Python Comparison (JOIN and MERGE)
 - MySQL and Python Comparison (Aggregate Function and Groupby)
 - MySQL and Python Comparison (Create Function and Apply Lambda)
+
+
+# ***Python Connect to SQL Server***
+
+- Still Updating.....
+
