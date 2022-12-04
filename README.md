@@ -29,4 +29,4 @@
 
 - Useful Link to Download SQL Server on Apple Chip MacBook: https://medium.com/geekculture/how-to-install-sql-server-in-mac-m1-41121e110214
 - Use Docker to set the virtual environment and use SQL Server in Azure Data Studio.
-- Still Updating....
+- Azure Data Studio let us write SQL in jupyter notebook file, which I believe is the most freidenly IDE when learning data-related language
